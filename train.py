@@ -1,6 +1,6 @@
 import pandas as pd
 from importlib import import_module
-import joblib
+import joblib==1.3.2
 from sklearn.ensemble import RandomForestClassifier
 import os
 
